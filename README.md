@@ -1,1 +1,1 @@
-#租手游######移动端web页面 和 微信页面 项目### 主要用 flex 布局加 jquery 完成 ### 用了 ES6 语法 fetch 代替了 jquery 中的 ajax###
+#租手游######移动端web页面 和 微信页面 项目### 是一个租游戏号的商城项目### 主要用 flex 布局加 jquery 完成 ### 用了 ES6 语法 fetch 代替了 jquery 中的 ajax### 
